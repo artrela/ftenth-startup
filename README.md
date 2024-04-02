@@ -20,7 +20,7 @@ Gateway is 192.168.0.1
 ## Downloading VS Code
 
 Put this link into the browser:
-https://code.visualstudio.com/docs/?dv=linux64_deb 
+https://code.visualstudio.com/docs/?dv=linuxarm64_deb
 
 Run the vscode.sh script as follows:
 ```bash
@@ -65,4 +65,9 @@ and:
 
 ```
 ls /dev/input
+```
+
+# Install Particle Filter
+```
+bash slam-pf-install.sh
 ```
